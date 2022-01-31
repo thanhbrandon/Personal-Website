@@ -108,6 +108,10 @@ header {
   overflow: hidden;
 }
 
+.project-item iframe{
+  float: left;
+  margin-right: 18px;
+}
 
 .project-item h3 {
   margin-top: 0;
